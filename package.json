@@ -24,6 +24,6 @@
   "devDependencies": {
     "chokidar": "^3.0.0",
     "nodemon": "^1.18.11",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
